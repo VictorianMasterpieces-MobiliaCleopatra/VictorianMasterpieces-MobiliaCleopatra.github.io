@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://VictorianMasterpieces-MobiliaCleopatra.github.io/sitemap.xml

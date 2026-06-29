@@ -1,0 +1,517 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "96eff7c12d079e94be34d56edb81eb26"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "4e1c6244455e2a19ec7b294b7b1c2331"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "a0ba884548820066dfadd8416036abba"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "c8f24385262425ace55bdac985c878df"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "dafec4f87fead6718cb125f0b0fc8441"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/hamza-collins",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/hamza-collins/index.html",
+        "type": "file",
+        "md5": "d95b852f6a4bbb70f2d3a13db39915b9"
+    },
+    {
+        "path": "authors/hamza-collins/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/hamza-collins/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/hamza-collins/page/2/index.html",
+        "type": "file",
+        "md5": "64d676e8b68e34a2c2bf153947f078fc"
+    },
+    {
+        "path": "authors/hamza-collins/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/hamza-collins/page/3/index.html",
+        "type": "file",
+        "md5": "409697b79d52527a763aaf00e4ee5c73"
+    },
+    {
+        "path": "authors/hamza-collins/page/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/hamza-collins/page/4/index.html",
+        "type": "file",
+        "md5": "bf46ae87f80415f0e9d4a1bc6d61071f"
+    },
+    {
+        "path": "authors/hamza-collins/page/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/hamza-collins/page/5/index.html",
+        "type": "file",
+        "md5": "10d510f31930eb25c44766b94d0f7cbb"
+    },
+    {
+        "path": "creating-a-timeless-home-embracing-victorian-style-furniture-in-modern-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creating-a-timeless-home-embracing-victorian-style-furniture-in-modern-interiors/index.html",
+        "type": "file",
+        "md5": "4e917228d25c5a92ea3f654e0c15ad2d"
+    },
+    {
+        "path": "discover-the-timeless-elegance-of-victorian-dressers-and-nightstands-for-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-the-timeless-elegance-of-victorian-dressers-and-nightstands-for-your-home/index.html",
+        "type": "file",
+        "md5": "f0d3f11284ac905f467ccce8824a866b"
+    },
+    {
+        "path": "discovering-luxury-a-guide-to-high-end-furniture-trends-in-the-usa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discovering-luxury-a-guide-to-high-end-furniture-trends-in-the-usa/index.html",
+        "type": "file",
+        "md5": "d47f3087158cafb0abb6d92ba7baa9d5"
+    },
+    {
+        "path": "elegance-reimagined-choosing-victorian-dining-sets-for-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elegance-reimagined-choosing-victorian-dining-sets-for-your-home/index.html",
+        "type": "file",
+        "md5": "1c5cff0436cc06a4f0a3c3543a0d6ac7"
+    },
+    {
+        "path": "elevate-your-home-a-guide-to-buying-luxury-furniture-online-in-the-usa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elevate-your-home-a-guide-to-buying-luxury-furniture-online-in-the-usa/index.html",
+        "type": "file",
+        "md5": "e4b6b6e6a2d7b043d3c32e2259bdccb7"
+    },
+    {
+        "path": "elevate-your-living-space-with-timeless-victorian-accent-chairs",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elevate-your-living-space-with-timeless-victorian-accent-chairs/index.html",
+        "type": "file",
+        "md5": "413d129f65dee613de7b391f706d5a66"
+    },
+    {
+        "path": "enhance-your-interior-with-elegant-victorian-console-tables-and-mirrors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/enhance-your-interior-with-elegant-victorian-console-tables-and-mirrors/index.html",
+        "type": "file",
+        "md5": "50880f6cdd1b494d2915f2b664a49d9d"
+    },
+    {
+        "path": "enhance-your-space-with-timeless-elegance-a-guide-to-victorian-benches-in-the-usa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/enhance-your-space-with-timeless-elegance-a-guide-to-victorian-benches-in-the-usa/index.html",
+        "type": "file",
+        "md5": "2ca88f763533e7bdcb842fc760ada82c"
+    },
+    {
+        "path": "enhancing-home-decor-with-timeless-victorian-vases-tips-and-inspirations",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/enhancing-home-decor-with-timeless-victorian-vases-tips-and-inspirations/index.html",
+        "type": "file",
+        "md5": "a50031735b893e42053436aebb5f3209"
+    },
+    {
+        "path": "exploring-the-timeless-elegance-of-victorian-vases-in-modern-home-decor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/exploring-the-timeless-elegance-of-victorian-vases-in-modern-home-decor/index.html",
+        "type": "file",
+        "md5": "956c1533456cc80c4b5cb3f7e382dfd2"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "3ff08770e3620f1ee3b42d6cbcf4447d"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "857f0bf3245a5eeb7a3196df5dd586de"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "4a9d21972955b12d4e1843f965a64c08"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/Mobilia-Cleopatra-Logo.webp",
+        "type": "file",
+        "md5": "d15ae83c31afefc4dce17b169693afaf"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-2xl.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-lg.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-md.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-sm.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-xl.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-xs.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "b0530f4253ed419b3471d1b2efc24151"
+    },
+    {
+        "path": "page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/3/index.html",
+        "type": "file",
+        "md5": "bd5d77b31b1031849b1c52cf0afc27d8"
+    },
+    {
+        "path": "page/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/4/index.html",
+        "type": "file",
+        "md5": "ffeab3663f9e03db425d4901570cc76f"
+    },
+    {
+        "path": "page/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/5/index.html",
+        "type": "file",
+        "md5": "c695ccafcb4042498e44e3e76724eeb0"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "e6abe60d56aa409da0738e5306ac50a7"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "cc3ec9f07923721fc9876bd31a5c48ac"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "07a5669c7ae4dbc0c6920582d15aced7"
+    },
+    {
+        "path": "timeless-elegance-a-guide-to-victorian-style-furniture-for-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-a-guide-to-victorian-style-furniture-for-your-home/index.html",
+        "type": "file",
+        "md5": "269169504f79473c54553e306036007e"
+    },
+    {
+        "path": "timeless-elegance-discover-the-allure-of-victorian-coffee-tables-for-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-discover-the-allure-of-victorian-coffee-tables-for-your-home/index.html",
+        "type": "file",
+        "md5": "741c2a9d64bad9085114c106cb9ba63f"
+    },
+    {
+        "path": "timeless-elegance-discover-the-beauty-of-victorian-beds-for-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-discover-the-beauty-of-victorian-beds-for-your-home/index.html",
+        "type": "file",
+        "md5": "a811da5ce3dd313499e388598ab8d52f"
+    },
+    {
+        "path": "timeless-elegance-discover-the-charm-of-victorian-bedroom-sets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-discover-the-charm-of-victorian-bedroom-sets/index.html",
+        "type": "file",
+        "md5": "b5b182286979d4b82b723c1375268144"
+    },
+    {
+        "path": "timeless-elegance-discover-the-charm-of-victorian-benches-for-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-discover-the-charm-of-victorian-benches-for-your-home/index.html",
+        "type": "file",
+        "md5": "859d5ef897d109ae03c94a1c7497efa5"
+    },
+    {
+        "path": "timeless-elegance-discover-the-charm-of-victorian-coffee-tables-for-modern-homes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-discover-the-charm-of-victorian-coffee-tables-for-modern-homes/index.html",
+        "type": "file",
+        "md5": "4caae4b6a9c25a07a7b3cb72740250ef"
+    },
+    {
+        "path": "timeless-elegance-exploring-the-charm-of-victorian-buffets-in-modern-homes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-exploring-the-charm-of-victorian-buffets-in-modern-homes/index.html",
+        "type": "file",
+        "md5": "761dea4ea3cccb9851de638f514111f2"
+    },
+    {
+        "path": "timeless-elegance-exploring-the-charm-of-victorian-end-tables-in-modern-homes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-exploring-the-charm-of-victorian-end-tables-in-modern-homes/index.html",
+        "type": "file",
+        "md5": "0ed145e77a2e1b4959e1d6635299bdc8"
+    },
+    {
+        "path": "timeless-elegance-the-allure-of-victorian-beds-in-modern-american-homes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-the-allure-of-victorian-beds-in-modern-american-homes/index.html",
+        "type": "file",
+        "md5": "062f0ecd9fdab3dd3dd07c21346f9f6b"
+    },
+    {
+        "path": "timeless-elegance-transform-your-space-with-victorian-living-room-sets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-transform-your-space-with-victorian-living-room-sets/index.html",
+        "type": "file",
+        "md5": "53f537fae2355ce8234cc19ea07e6620"
+    },
+    {
+        "path": "top-10-best-online-furniture-websites-to-transform-your-home-in-2023",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/top-10-best-online-furniture-websites-to-transform-your-home-in-2023/index.html",
+        "type": "file",
+        "md5": "339fce08431c1f930c27a2a7e55f1717"
+    },
+    {
+        "path": "top-furniture-stores-in-california-your-ultimate-shopping-guide",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/top-furniture-stores-in-california-your-ultimate-shopping-guide/index.html",
+        "type": "file",
+        "md5": "1954ea1b280b8a9a87c7b8cc50103092"
+    },
+    {
+        "path": "transform-your-dining-space-with-elegant-victorian-dining-chairs",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/transform-your-dining-space-with-elegant-victorian-dining-chairs/index.html",
+        "type": "file",
+        "md5": "1c00348ab38c4d85934bc0a9bd621fab"
+    },
+    {
+        "path": "transform-your-living-space-victorian-sofas-and-loveseats-for-a-timeless-elegance",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/transform-your-living-space-victorian-sofas-and-loveseats-for-a-timeless-elegance/index.html",
+        "type": "file",
+        "md5": "7b5bc04da0cc0711ee1dcaca3aaee22b"
+    },
+    {
+        "path": "transform-your-space-with-elegant-victorian-accent-chairs-a-timeless-addition-to-any-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/transform-your-space-with-elegant-victorian-accent-chairs-a-timeless-addition-to-any-home/index.html",
+        "type": "file",
+        "md5": "b8edf512b5011ce5f5b4ef189d269dd5"
+    }
+]
